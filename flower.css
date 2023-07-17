@@ -3,10 +3,14 @@
     background-color: lightpink;
 }
 .banner{
-    padding: 30px 30px 30px 150px;
+    padding: 30px 30px 0px 150px;
     display: flex;
     align-items: center;
+    justify-content: space-between;
 }
 .banner .profile-pic{
     width: 500;
 }
+/* main section styles */
+
+/*about section /*
